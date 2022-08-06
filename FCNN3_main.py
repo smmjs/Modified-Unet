@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon April  5 11:23:29 2021
 
-@author: Briana Santo
-"""
 import os
 import sys
 import random
